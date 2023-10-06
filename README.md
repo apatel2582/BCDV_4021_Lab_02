@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# BCDV_4021_Lab_02 -> Intermediate Version
+
+Lab 02 Create Todo List App - Intermediate Lab </br>
+Anishkumar Pankajkumar Patel </br>
+101504708 </br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
