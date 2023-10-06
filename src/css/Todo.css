@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    color: darkblue;
+}
+
+.inputContainer {
+    text-align: center;
+}
+
+.taskInput {
+    padding: 5px;
+    width: 300px;
+    margin: 10px;
+}
+
+.addButton {
+    background-color: darkblue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    margin-left: 5px;
+}
+
+.taskList {
+    list-style-type: circle;
+    padding-left: 20px;
+}
